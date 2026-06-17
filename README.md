@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: bachle215@gmail.com
+
 - ⚡ Fun fact:
     - Hobbies: Gym, Swimming, Gaming
     - Favorite Snack: Donut, Croissant, Popcorn
