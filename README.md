@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: bachle215@gmail.com
 - ⚡ Fun fact:
-      Hobbies: Gym, Swimming, Gaming
-      Favorite Snack: Donut, Croissant, Popcorn
-      3 words to describe me: Meticulous, Calm, Organized
-      Craziest thing I've done: Water jet skiing with a parachute
+            - Hobbies: Gym, Swimming, Gaming
+            - Favorite Snack: Donut, Croissant, Popcorn
+            - 3 words to describe me: Meticulous, Calm, Organized
+            - Craziest thing I've done: Water jet skiing with a parachute
 <!--
 **BlueErik/BlueErik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
