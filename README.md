@@ -9,6 +9,8 @@
     - 3 words to describe me: Meticulous, Calm, Organized
     - Craziest thing I've done: Water jet skiing with a parachute
 
+[![Star History](https://api.lucabubi.me/chart?username=BlueErik&repository=BlueErik&color=blue)](https://github.com/lucabubi/star-history)
+
 <!--
 **BlueErik/BlueErik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
