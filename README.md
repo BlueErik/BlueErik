@@ -9,7 +9,11 @@
     - 3 words to describe me: Meticulous, Calm, Organized
     - Craziest thing I've done: Water jet skiing with a parachute
 
-[![Star History](https://api.lucabubi.me/chart?username=BlueErik&repository=BlueErik&color=blue)](https://github.com/lucabubi/star-history)
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9)
+
+  <a href="https://www.linkedin.com/in/bach-le-426347176/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <!--
 **BlueErik/BlueErik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
