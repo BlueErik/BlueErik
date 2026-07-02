@@ -1,17 +1,14 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on showcasing all my projects.
+- 🌱 I’m currently learning how to use GitHub well.
 
 - ⚡ Fun fact:
     - Hobbies: Gym, Swimming, Gaming
     - Favorite Snack: Donut, Croissant, Popcorn
     - 3 words to describe me: Meticulous, Calm, Organized
     - Craziest thing I've done: Water jet skiing with a parachute
-
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-  
-  <a href="https://www.linkedin.com/in/bach-le-426347176/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    - <a href="https://www.linkedin.com/in/bach-le-426347176/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <!--
 **BlueErik/BlueErik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
